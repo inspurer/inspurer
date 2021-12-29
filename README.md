@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an android developer, also a python full stack developer
+I'm an android developer, also a python full stack developer, as well as addict to data visual
 
 - 🔭 I’m currently working on kuaishou.corp as an android research & development engineer
 - 🌱 I’m a graducation of Central South University
