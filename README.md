@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm an android developer, also a python full stack developer, as well as addict to data visual
+I'm an android developer, also a python full stack developer, as well as addicting to data visualization
 
-- 🔭 I’m currently working on kuaishou.corp as an android research & development engineer
+- 🔭 I’m currently ~~working on kuaishou.corp as an android research & development engineer~~
 - 🌱 I’m a graducation of Central South University
 - 🤔 I’m looking for help with those who want data by using webspider and analysis it，see https://github.com/Python3Spiders/
-- 💬 Ask me about java & android & data-mining & mini-program & python full stack
+- 💬 Ask me about java & android & data-mining & mini-program & python full stack && data visualization && chrome-plugins
 
 ### Contact me
 
