@@ -3,7 +3,7 @@
 I'm an android developer, also a python full stack developer, as well as addicting to data visualization
 
 - 🔭 I’m currently ~~working on kuaishou.corp as an android research & development engineer~~ sleeping on my home bed, on yeah~
-- 🌱 I’m a graducation of Central South University
+- 🌱 I’m a bachelor of engineering of Central South University
 - 🤔 I’m looking for helping those who want data by using webspider and analysis it，see https://github.com/Python3Spiders/
 - 💬 Ask me about java & android & data-mining & mini-program & python full stack & data visualization & chrome-extension
 
