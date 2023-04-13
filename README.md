@@ -13,8 +13,6 @@ I'm an android developer, also a python full stack developer, as well as addicti
 - <https://buyixiao.github.io>
 - <2391527690@qq.com>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=inspurer&show_icons=true&theme=light)
-
 
 ### Profile statistics(from 2023-04-13 17:00)
 
