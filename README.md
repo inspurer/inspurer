@@ -19,9 +19,9 @@ I'm an android developer, also a python full stack developer, as well as addicti
 
 - 🔭 I’m currently ~~working on kuaishou.corp as an android research & development engineer~~ sleeping on my home bed, on yeah~
 - 🌱 I hold a Bachelor of Engineering degree from Central South University
-- 🤔 I have writen some webspiders and made a bit of funny analysis，see https://github.com/Python3Spiders/
+- 🤔 I have written some webspiders and made a bit of funny analysis，see https://github.com/Python3Spiders/
+- 🍉 I have also developed some online tools such as [https://weibo-crawl-visual.buyixiao.xyz/](https://weibo-crawl-visual.buyixiao.xyz/) and [https://tools.buyixiao.xyz/](https://tools.buyixiao.xyz/)
 - 💬 Ask me about java & android & data-mining & mini-program & python full stack & data visualization & chrome-extension & unity3d & swift & esp32...
-- 🍉 I have developed some online tools such as [https://weibo-crawl-visual.buyixiao.xyz/](https://weibo-crawl-visual.buyixiao.xyz/) and [https://tools.buyixiao.xyz/](https://tools.buyixiao.xyz/)
 - 📦 scan my **WeChat Official Account QR Code** below，you can be the first to see my latest original articles
 
 <div align="center">
