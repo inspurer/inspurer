@@ -1,23 +1,32 @@
-### Hi there 👋
+
+<h2 align="center">Hi there 👋</h2>
 
 I'm an android developer, also a python full stack developer, as well as addicting to data visualization
 
+<div align="center">
+
+[![](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&color=8B4513&logo=rss&logoColor=white)](https://buyixiao.github.io/)
+[![](https://img.shields.io/badge/-Wechat-green?style=for-the-badge&color=006400&logo=wechat&logoColor=white)](https://github.com/Python3Spiders/WeiboSuperSpider/blob/master/qrcode.jpg)
+
+</div>
+
+<div align="center">
+  
+| <a href="https://buyixiao.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=inspurer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BuyiXiao's github stats" /></a> | <a href="https://buyixiao.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inspurer&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
+</div>
+
 - 🔭 I’m currently ~~working on kuaishou.corp as an android research & development engineer~~ sleeping on my home bed, on yeah~
 - 🌱 I hold a Bachelor of Engineering degree from Central South University
-- 🤔 I’m looking for helping those who want data by using webspider and analyse it，see https://github.com/Python3Spiders/
+- 🤔 I have writen some webspiders and made a bit of funny analysis，see https://github.com/Python3Spiders/
 - 💬 Ask me about java & android & data-mining & mini-program & python full stack & data visualization & chrome-extension & unity3d & swift & esp32...
 - 🍉 I have developed some online tools such as [https://weibo-crawl-visual.buyixiao.xyz/](https://weibo-crawl-visual.buyixiao.xyz/) and [https://tools.buyixiao.xyz/](https://tools.buyixiao.xyz/)
+- 📦 scan my **WeChat Official Account QR Code** below，you can be the first to see my latest original articles
 
-### Contact me
-
-- <https://buyixiao.github.io>
-- <2391527690@qq.com>
-
-
-### Profile statistics(from 2023-04-13 17:00)
-
-
-![](https://komarev.com/ghpvc/?username=inspurer)
-<div>
-<a href="https://info.flagcounter.com/YOC5"><img src="https://s11.flagcounter.com/map/YOC5/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<div align="center">
+  
+![](https://github.com/Python3Spiders/WeiboSuperSpider/blob/master/qrcode.jpg)
+  
 </div>
+
