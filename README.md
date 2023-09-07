@@ -12,8 +12,7 @@ I'm an android developer, also a python full stack developer, as well as addicti
 
 <div align="center">
   
-| <a href="https://buyixiao.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=inspurer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BuyiXiao's github stats" /></a> | <a href="https://buyixiao.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inspurer&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://buyixiao.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inspurer&layout=compact&theme=buefy&hide_border=true" /></a> 
   
 </div>
 
