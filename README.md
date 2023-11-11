@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi there 👋</h2>
 
-I'm an android developer, also a python full stack developer, as well as addicting to data visualization
+I am an Android and iOS developer, as well as a Python full-stack development and data mining enthusiast.
 
 <div align="center">
 
